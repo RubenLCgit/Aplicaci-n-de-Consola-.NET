@@ -1,0 +1,13 @@
+{
+  "Ruben": {
+    "UserId": 1,
+    "UserName": "Ruben",
+    "UserEmail": "ruben@gmail.com",
+    "UserPassword": "patatas2",
+    "UserRegisterDate": "2024-04-02T11:22:08.8549194+02:00",
+    "UserSupplier": true,
+    "UserRating": 0,
+    "ListSupplier": {},
+    "ListProducts": {}
+  }
+}
